@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/zensar02.egg-info/PKG-INFO
+src/zensar02.egg-info/SOURCES.txt
+src/zensar02.egg-info/dependency_links.txt
+src/zensar02.egg-info/top_level.txt
+src/zensar02_package/__init__.py
+src/zensar02_package/zensar02.py

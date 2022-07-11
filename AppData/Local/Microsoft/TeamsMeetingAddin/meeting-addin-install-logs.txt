@@ -1,0 +1,48 @@
+2022-04-03-07:10:03.277 PM System.ArgumentException: Cannot delete a subkey tree because the subkey does not exist.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey, Boolean throwOnMissingSubKey)
+   at Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey)
+   at Squirrel.MeetingAddinInstaller.<InstallMeetingAddinAsync>d__15.MoveNext()
+2022-04-03-07:10:03.281 PM StagedAppDirectory does not exist. Using Current
+2022-04-03-07:10:03.285 PM Version: 1.0.19036.2; addinPackageDirectory: 1.0.19036.2
+2022-04-03-07:10:03.288 PM .dead exists: False
+2022-04-03-07:10:03.290 PM before cleanup unused versions
+2022-04-03-07:10:03.765 PM Addin directory exists. Copy was successful
+2022-04-03-07:10:06.804 PM Version 1.0.19036.2 of the meeting add-in is now installed
+2022-05-23-06:47:17.761 PM System.ArgumentException: Cannot delete a subkey tree because the subkey does not exist.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey, Boolean throwOnMissingSubKey)
+   at Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey)
+   at Squirrel.MeetingAddinInstaller.<InstallMeetingAddinAsync>d__15.MoveNext()
+2022-05-23-06:47:17.767 PM StagedAppDirectory does not exist. Using Current
+2022-05-23-06:47:17.768 PM There is no version.txt. Falling back to getting version from folder name
+2022-05-23-06:47:17.771 PM Version: 1.0.22062.1; addinPackageDirectory: 1.0.22062.1
+2022-05-23-06:47:17.773 PM .dead exists: False
+2022-05-23-06:47:17.776 PM before cleanup unused versions
+2022-05-23-06:47:18.040 PM Addin directory exists. Copy was successful
+2022-05-23-06:47:18.045 PM COM registration. Regsvr Path: C:\Windows\system32\regsvr32.exe, Arguments: /s /n /i:user "C:\Users\nc67322\AppData\Local\Microsoft\TeamsMeetingAddin\1.0.22062.1\x64\Microsoft.Teams.AddinLoader.dll"
+2022-05-23-06:47:22.955 PM Version 1.0.22062.1 of the meeting add-in is now installed
+2022-06-10-09:21:03.743 AM System.ArgumentException: Cannot delete a subkey tree because the subkey does not exist.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey, Boolean throwOnMissingSubKey)
+   at Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey)
+   at Squirrel.MeetingAddinInstaller.<InstallMeetingAddinAsync>d__15.MoveNext()
+2022-06-10-09:21:03.748 AM There is no version.txt. Falling back to getting version from folder name
+2022-06-10-09:21:03.750 AM Version: 1.0.22117.3; addinPackageDirectory: 1.0.22117.3
+2022-06-10-09:21:03.755 AM .dead exists: False
+2022-06-10-09:21:03.758 AM before cleanup unused versions
+2022-06-10-09:21:04.373 AM Addin directory exists. Copy was successful
+2022-06-10-09:21:04.380 AM COM registration. Regsvr Path: C:\Windows\system32\regsvr32.exe, Arguments: /s /n /i:user "C:\Users\nc67322\AppData\Local\Microsoft\TeamsMeetingAddin\1.0.22117.3\x64\Microsoft.Teams.AddinLoader.dll"
+2022-06-10-09:21:08.767 AM Version 1.0.22117.3 of the meeting add-in is now installed
+2022-07-05-08:46:17.057 AM System.ArgumentException: Cannot delete a subkey tree because the subkey does not exist.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey, Boolean throwOnMissingSubKey)
+   at Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey)
+   at Squirrel.MeetingAddinInstaller.<InstallMeetingAddinAsync>d__15.MoveNext()
+2022-07-05-08:46:17.065 AM There is no version.txt. Falling back to getting version from folder name
+2022-07-05-08:46:17.069 AM Version: 1.0.22147.1; addinPackageDirectory: 1.0.22147.1
+2022-07-05-08:46:17.071 AM .dead exists: False
+2022-07-05-08:46:17.075 AM before cleanup unused versions
+2022-07-05-08:46:17.667 AM Addin directory exists. Copy was successful
+2022-07-05-08:46:17.674 AM COM registration. Regsvr Path: C:\Windows\system32\regsvr32.exe, Arguments: /s /n /i:user "C:\Users\nc67322\AppData\Local\Microsoft\TeamsMeetingAddin\1.0.22147.1\x64\Microsoft.Teams.AddinLoader.dll"
+2022-07-05-08:46:22.681 AM Version 1.0.22147.1 of the meeting add-in is now installed

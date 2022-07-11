@@ -1,0 +1,243 @@
+pip install emojis
+python-dateutils
+python -m pip install --upgrade pip
+pip install dateutils
+python -m pip install --upgrade pip
+python -m pip install --upgrade build
+cd .\Day6\
+package_installable
+.\package_installable
+Day6 .\package_installable
+Day6 .\package_installable\
+cd .\package_installable\
+python -m build
+cls
+cd .\dist\
+cd .\dist\                                                                         
+pip install .\zensar02-0.0.1-py3-none-any.whl
+cls
+dir
+cls
+dir
+pip install prettytable
+pip install openpyxl
+pip install pymysql
+pip install BankPackage
+pip install BankInfo
+pip install bankpackage
+cls
+pip install noAgrsPackage
+pip --version
+pip install fibo
+cls
+pip install BankInfo
+cls
+pip install
+pip help install
+pip install bankPackage
+pip install BankPackage
+pip3 install BankPackage
+pip3 install BankInfo
+cls
+pip3 install noAgrsPackage
+pip install bs4
+pip install lxml
+pip installrequests
+pip install requests
+pip install scrappy
+pip3 install scrappy
+pip install django
+django-admin --version
+cd .\Day10
+django-admin startproject myproject
+cd .\myproject\
+dir
+python .\manage.py runserver
+cls
+python .\manage.py startapp helloworld
+python .\manage.py runserver
+cd..
+cd .\Day11\
+cd .\pythonProject\
+cd .\Day11\
+cd .\myproject\
+python manage.py makemigrations
+python .\manage.py createsuperuser
+python .\manage.py runserver
+cls
+python .\manage.py createsuperuser
+python .\manage.py migrate
+python .\manage.py createsuperuser
+python .\manage.py migrate
+python .\manage.py createsuperuser
+python .\manage.py startapp studmgmnt
+python .\manage.py runserver
+django-admin startapp newcalc
+cd .\newcalc\
+python manage.py startapp calc
+python .\manage.py runserver
+cls
+python .\manage.py runserver
+cls
+python manage.py runserver
+python .\manage.py runserver
+cd .\Day11
+python .\manage.py runserver
+cd .\myproject\
+python .\manage.py runserver
+cd .\Day11
+cd .\myproject\
+python .\manage.py runserver
+cd ..
+cd .\Day12
+cd .\myproject\
+python .\manage.py runserver
+dir
+python .\manage.py runserver
+python .\manage.py makemigrations
+python .\manage.py migrate
+python .\manage.py makemigrations
+python .\manage.py migrate
+python .\manage.py makemigrations
+python .\manage.py migrate
+cd .\Day12
+cd .\myproject\
+python .\manage.py runserver
+python .\manage.py makemigrations
+python .\manage.py migrate
+python .\manage.py runserver
+cd ..
+cd .\Day11
+cd .\myproject\
+python .\manage.py runserver
+cd ..
+django-admin startapp WeatherReport
+python manage.py startapp Weather
+cd .\Day12
+cd .\myproject\
+python .\manage.py runserver
+cd ..
+cd .\MiniProject\
+django-admin startapp weather
+cd .\weather\
+django-admin startapp weatherdetector
+django-admin startapp weather
+django-admin startproject weather
+cd .\weather\
+python startapp webapp
+django-admin startapp weatherdetector
+python .\manage.py runserver
+python .\manage.py migrations
+python .\manage.py makemigrations
+python .\manage.py migrate
+python .\manage.py runserver
+cd .\weather\
+python .\manage.py runserver
+cd .\mini
+django-admin startproject weather
+cd .\weather
+django-admin startapp weatherdetector
+python .\manage.py runserver
+cd .\weather\
+python .\manage.py runserver
+cdn .\weather
+cd .\weather\
+python .\manage.py runserver
+cd .\weatherdetector\
+python .\manage.py runserver
+cd ..
+python .\manage.py runserver
+cd .\mini\
+cd .\Django-Web-Scraper-master\
+python .\manage.py runserver
+cd .\weather\
+python .\manage.py runserver
+cd .\Day13\
+cd .\myproject\
+python startproject coocies
+python startapp cookies
+python .\manage.py startapp cookies
+cls
+python .\manage.py runserver
+django-admin startproject products
+cd ..
+django-admin startproject products
+cd .\products\
+python .\manage.py runserver
+python manage.py migrate
+python .\manage.py runserver
+cd ..
+cd .\products
+python .\manage.py startapp session
+cls
+python .\manage.py runserver
+cd .\weather\
+python .\manage.py runserver
+cd \.weather
+cd .\weather\
+python .\manage.py runserver
+cd .\weather\
+pip install matplotlib
+ -m pip install --upgrade pip matplotlib
+ -m pip install --upgrade pip install matplotloib
+pip install matplotlib
+python .\manage.py runserver
+pip install copy
+python .\manage.py runserver
+pip install deepcopy
+ -m pip install --upgrade pip copy
+pip install copy
+python -m pip install --upgrade copy
+python .\manage.py runserver
+python -m pip install copy
+cd .\Day13
+cd .\products\
+python .\manage.py runserver
+python .\manage.py startapp prodrest
+cd ..
+cd Day14
+cd .products
+cd .\products\
+python .\manage.py startapp prodrest
+cls
+python .\manage.py startapp prodrest
+cls
+cd ..
+django-admin startproject prod
+cd .\prod\
+python .\manage.py startapp prodrest
+pip insatll rest_framework
+pip install rest_framework
+pip install djangorestframework
+python .\manage.py migrate
+cls
+python .\manage.py runserver
+cls
+python .\manage.py runserver
+python .\manage.py migrate
+python .\manage.py runserver
+python .\manage.py createsuperuser
+python .\manage.py runserver
+cls
+cd Day14
+cd .prod
+cd .\prod\
+python .\manage.py runserver
+cd ..
+cd Day15
+cd .\prod\
+cd ..
+cd Day14
+cd .\prod\
+python .\manage.py runserver
+pip install flask
+flask --version
+cd Day14
+cd .\prod\
+python .\manage.py runserver
+cd ..
+pip install flask_sqlalchemy
+cls
+pip install flask_restful
+pip install pyautogui
+-m pip install --upgrade pip

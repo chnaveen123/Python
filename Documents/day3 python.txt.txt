@@ -1,0 +1,48 @@
+DAY-03:
+
+
+Dictionaries:
+-------------------
+
+1. Associative Arrays
+2. keys in a dictionary is always unique
+3. dictionaries are mutable
+4. dictionaries are enclosed in {key1:val1, key2:vsl2,key3:val3......}
+
+------------------------------------------------------
+
+TUPLE():
+---------
+
+1. immutable 
+2. ordered collection
+3.subscriptable
+4. enclosed in () 
+
+
+
+SETS:
+---------
+
+1. colection of unique values
+2.unordered collection 
+3. not subscriptable(cannot be indexed)
+4. enclosed in  {} 
+
+
+FUNCTIONS:
+----------
+
+1.def - define a function 
+
+Syntax: 
+
+def function():
+	print("Hi")
+
+###**return :
+		
+
+
+
+

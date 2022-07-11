@@ -1,0 +1,234 @@
+Day01:
+------
+
+1.num = 2
+counter = 1
+
+
+for i in range(4):
+    for j in range(1, num):
+        print(counter, end=' ')
+        counter += 1
+    print("")
+    num += 1
+
+2.
+for i in range(6):
+    for j in range(i):
+        print(i, end="")
+    print('')
+
+3.
+
+for i in range(1,6):
+    for k in range(7-i,1,-1):
+        print(" ",end="")
+    for j in range(1, i + 1):
+        print(j, end=' ')
+    print('')
+for i in range(4,0,-1):
+    for k in range(7-i,1,-1):
+        print(" ",end="")
+    for j in range(1,i+1):
+
+        print(j, end=" ")
+
+    print()
+
+
+
+4.
+
+factorial = [1, 1, 2, 6, 24, 120,
+             720, 5040, 40320, 362880]
+
+
+def isStrong(N):
+
+    num = str(N)
+
+    sum = 0
+
+    for i in range(len(num)):
+        sum += factorial[ord(num[i]) -
+                         ord('0')]
+
+
+    if sum == N:
+        return True
+    else:
+        return False
+
+
+
+def printStrongNumbers(N):
+
+    for i in range(1, N + 1):
+
+        if (isStrong(i)):
+            print(i, end=" ")
+
+
+
+if __name__ == "__main__":
+
+    N = 2000
+
+
+    printStrongNumbers(N)
+
+
+
+5.
+
+n = 5
+for i in range(n):
+    for j in range(n-i):
+        print(' ', end='')
+
+    C = 1
+    for j in range(1, i+1):
+        print(C, ' ', sep='', end='')
+        C = C * (i - j) // j
+    print()
+
+
+6.
+
+n = 10
+a = 0
+b = 1
+if n == 1:
+    print(a)
+else:
+    print(a)
+    print(b)
+    for i in range(2,n + 1):
+        c = a + b
+        a = b
+        b = c
+        print(c)
+
+
+
+
+
+Day02:
+------
+
+1.
+
+n = int(input())
+matrix = [list(range(1 + n * i, 1 + n * (i + 1))) for i in range(n)]
+print("matrix of {} * {} :".format(n, n))
+for m in matrix:
+    print(m)
+
+
+2.
+
+m = int(input("1st value : "))
+n = int(input("2nd Values : "))
+
+for num in range(m, n + 1):
+    sum = 0
+    temp = num
+    while temp > 0:
+        digit = temp % 10
+        sum += digit ** 3
+        temp //= 10
+        if num == sum:
+            print(num)
+
+
+
+
+Day05:
+-------
+
+1.
+
+def nozero(fnc):
+    def helper(*args):
+
+        print(fnc(*args))               # callback
+
+    return helper
+
+
+@nozero
+def div(x, y):
+    return x / y
+
+@nozero
+def mul(x, y):
+
+    return x * y
+
+@nozero
+def add(x, y):
+
+    return x + y
+
+@nozero
+def sub(x, y):
+
+    return x - y
+
+div(20,10)
+add(20,10)
+mul(10, 20)
+sub(20, 10)
+
+
+
+3.
+
+
+def logBeforeAfter(fnc):
+    def helper(*args):
+
+        fnc(*args)
+
+    return helper
+
+
+@logBeforeAfter
+def fun(x, y):
+    print("fun", x, y)
+
+@logBeforeAfter
+def fun1(*args):
+    print("fun1", args)
+
+@logBeforeAfter
+def fun2(**kwargs):
+    print("fun2", kwargs)
+
+@logBeforeAfter
+def fun3(*args, **kwargs):
+    print("fun3", args, kwargs)
+
+
+fun(2,3)
+fun1(4,fun)
+fun2()
+fun3(fun1,fun2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

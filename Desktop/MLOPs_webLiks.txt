@@ -1,0 +1,49 @@
+"Day1: 
+https://neptune.ai/blog/mlops
+https://www.tutorialspoint.com/sdlc/sdlc_overview.htm
+https://neptune.ai/blog/mlops-problems-and-best-practices
+Day2: https://www.javatpoint.com/devops
+https://www.techtarget.com/searchsoftwarequality/opinion/DevOps-vs-waterfall-Can-they-coexist
+Day3:
+https://www.javatpoint.com/machine-learning-life-cycle
+https://medium.com/@rajeshhegde/how-machine-learning-lifecycle-is-different-from-a-software-development-lifecycle-cacdc1fd0077
+https://www.kdnuggets.com/2020/12/mlops-changing-machine-learning-developed.html
+Day4:
+https://www.analyticsvidhya.com/blog/2022/03/a-comprehensive-guide-on-mlops-for-machine-learning-engineering/
+https://medium.com/analytics-vidhya/what-is-a-pipeline-in-machine-learning-how-to-create-one-bda91d0ceaca
+"
+
+"Day1: 
+https://neptune.ai/blog/ml-experiment-tracking
+Day2:
+https://oden.io/glossary/model-training/
+https://medium.com/analytics-vidhya/machine-learning-models-to-production-72280c3cb479
+Day3:
+https://www.analyticsvidhya.com/blog/2021/05/data-validation-in-machine-learning-is-imperative-not-optional/
+https://medium.com/analytics-vidhya/what-is-model-validation-257686d0253e
+Day4:
+https://neptune.ai/blog/version-control-for-ml-models
+https://www.datarobot.com/blog/what-is-model-governance/
+https://neptune.ai/blog/how-to-monitor-your-models-in-production-guide"
+
+
+"Day1:
+https://www.geeksforgeeks.org/version-control-systems/
+Day2:
+https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html
+https://www.docker.com/resources/what-container/
+https://azure.microsoft.com/en-in/topic/kubernetes-vs-docker/
+Day3,4,5:
+https://towardsdatascience.com/an-intuitive-guide-to-track-your-ml-experiments-with-mlflow-7ac50e63b09
+https://mlflow.org/
+https://airflow.apache.org/"
+
+
+
+
+"1. Source code :https://www.kaggle.com/code/vtella/starter-loan-prediction-problem-36866eee-ehttps://www.kaggle.com/code/vtella/starter-loan-prediction-problem-36866eee-e
+2. https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
+3. https://data-flair.training/blogs/stock-price-prediction-machine-learning-project-in-python/
+4. https://github.com/amberkakkar01/Prediction-of-Wine-Quality
+5. https://github.com/Shreyas3108/house-price-prediction"
+
