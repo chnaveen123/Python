@@ -1,0 +1,40 @@
+time : 2022-04-26 12:12:45,294 
+LeaeName : DEBUG, 
+Message : division by zero, 
+Filename : o06logging04.py, 
+Lineno : 27, 
+Name : rootProcessID : 19712, 
+ProcessName : MainProcess, 
+Thread : 16512, 
+ThreadName : MainThread, 
+
+time : 2022-04-26 12:12:45,294 
+LeaeName : INFO, 
+Message : ........................, 
+Filename : o06logging04.py, 
+Lineno : 40, 
+Name : rootProcessID : 19712, 
+ProcessName : MainProcess, 
+Thread : 16512, 
+ThreadName : MainThread, 
+
+time : 2022-04-26 12:32:10,615 
+LevelName : DEBUG, 
+Message : division by zero, 
+Filename : o06logging04.py, 
+Lineno : 26, 
+Name : rootProcessID : 3144, 
+ProcessName : MainProcess, 
+Thread : 14864, 
+ThreadName : MainThread, 
+
+time : 2022-04-26 12:32:10,616 
+LevelName : INFO, 
+Message : ........................, 
+Filename : o06logging04.py, 
+Lineno : 39, 
+Name : rootProcessID : 3144, 
+ProcessName : MainProcess, 
+Thread : 14864, 
+ThreadName : MainThread, 
+
